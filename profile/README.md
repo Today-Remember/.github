@@ -2,7 +2,6 @@
 
 <img width="700" alt="logo" src="https://github.com/user-attachments/assets/8a7d9ee2-6994-44e9-b82f-c7f6d4c824ba">
 <br>
-<br>
 
 > Open AI를 이용한 스마트 웹 일기장 
 
